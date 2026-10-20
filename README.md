@@ -1,4 +1,4 @@
-# Gather Social
+# Gather
 
 A small social media app built with vanilla HTML, CSS, and JavaScript, an Express.js API, and SQLite. Users can create accounts, publish posts, comment, like and unlike posts, edit their profiles, and follow other users.
 
